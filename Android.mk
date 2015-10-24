@@ -25,3 +25,5 @@ LOCAL_SRC_FILES := misc.c interface.c state.c minmea.c gps_status.c reader.c not
 
 include $(BUILD_SHARED_LIBRARY)
 
+endif
+
